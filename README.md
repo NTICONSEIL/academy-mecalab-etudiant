@@ -1,5 +1,5 @@
 # MecaLab — Python pour la mécanique
-CESI • Prépa 1
+Classe Préparatoire - Année 1
 
 ## Démarrer
 Clonez le dépôt avec `git clone URL_DU_DEPOT` (remplacez le paramètre par l'URL communiquée par l'enseignant). Ouvrez le dossier dans VS Code.
