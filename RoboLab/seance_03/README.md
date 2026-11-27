@@ -1,6 +1,6 @@
 # RoboLab — Séance 3 : statique et dimensionnement
 
-Prépa CESI — 4 heures. Après la cinématique directe (S1) et inverse (S2), étudier les efforts de maintien du robot R2 dans un plan vertical.
+Classe préparatoire — 4 heures. Après la cinématique directe (S1) et inverse (S2), étudier les efforts de maintien du robot R2 dans un plan vertical.
 
 - [Cours détaillé](cours.md)
 - [TP étudiant](tp.md)
