@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="600" viewBox="0 0 760 600">
+<rect width="760" height="600" fill="white"/>
+<text x="28" y="36" font-family="sans-serif" font-size="23" fill="#172b42">R2 — Deux postures pour une même cible</text>
+<line x1="140" y1="540" x2="140" y2="90" stroke="#e7edf2" stroke-width="1" />
+<line x1="125" y1="525" x2="575" y2="525" stroke="#e7edf2" stroke-width="1" />
+<line x1="170" y1="540" x2="170" y2="90" stroke="#e7edf2" stroke-width="1" />
+<line x1="125" y1="495" x2="575" y2="495" stroke="#e7edf2" stroke-width="1" />
+<line x1="200" y1="540" x2="200" y2="90" stroke="#e7edf2" stroke-width="1" />
+<line x1="125" y1="465" x2="575" y2="465" stroke="#e7edf2" stroke-width="1" />
+<line x1="230" y1="540" x2="230" y2="90" stroke="#e7edf2" stroke-width="1" />
+<line x1="125" y1="435" x2="575" y2="435" stroke="#e7edf2" stroke-width="1" />
+<line x1="260" y1="540" x2="260" y2="90" stroke="#e7edf2" stroke-width="1" />
+<line x1="125" y1="405" x2="575" y2="405" stroke="#e7edf2" stroke-width="1" />
+<line x1="290" y1="540" x2="290" y2="90" stroke="#e7edf2" stroke-width="1" />
+<line x1="125" y1="375" x2="575" y2="375" stroke="#e7edf2" stroke-width="1" />
+<line x1="320" y1="540" x2="320" y2="90" stroke="#e7edf2" stroke-width="1" />
+<line x1="125" y1="345" x2="575" y2="345" stroke="#e7edf2" stroke-width="1" />
+<line x1="350" y1="540" x2="350" y2="90" stroke="#e7edf2" stroke-width="1" />
+<line x1="125" y1="315" x2="575" y2="315" stroke="#e7edf2" stroke-width="1" />
+<line x1="380" y1="540" x2="380" y2="90" stroke="#e7edf2" stroke-width="1" />
+<line x1="125" y1="285" x2="575" y2="285" stroke="#e7edf2" stroke-width="1" />
+<line x1="410" y1="540" x2="410" y2="90" stroke="#e7edf2" stroke-width="1" />
+<line x1="125" y1="255" x2="575" y2="255" stroke="#e7edf2" stroke-width="1" />
+<line x1="440" y1="540" x2="440" y2="90" stroke="#e7edf2" stroke-width="1" />
+<line x1="125" y1="225" x2="575" y2="225" stroke="#e7edf2" stroke-width="1" />
+<line x1="470" y1="540" x2="470" y2="90" stroke="#e7edf2" stroke-width="1" />
+<line x1="125" y1="195" x2="575" y2="195" stroke="#e7edf2" stroke-width="1" />
+<line x1="500" y1="540" x2="500" y2="90" stroke="#e7edf2" stroke-width="1" />
+<line x1="125" y1="165" x2="575" y2="165" stroke="#e7edf2" stroke-width="1" />
+<line x1="530" y1="540" x2="530" y2="90" stroke="#e7edf2" stroke-width="1" />
+<line x1="125" y1="135" x2="575" y2="135" stroke="#e7edf2" stroke-width="1" />
+<line x1="560" y1="540" x2="560" y2="90" stroke="#e7edf2" stroke-width="1" />
+<line x1="125" y1="105" x2="575" y2="105" stroke="#e7edf2" stroke-width="1" />
+<line x1="116" y1="315" x2="584" y2="315" stroke="#687583" stroke-width="2" />
+<line x1="350" y1="549" x2="350" y2="81" stroke="#687583" stroke-width="2" />
+<text x="590" y="308" font-family="sans-serif" font-size="18" fill="#172b42">x (cm)</text>
+<text x="360" y="77" font-family="sans-serif" font-size="18" fill="#172b42">y (cm)</text>
+<circle cx="350" cy="315" r="30" fill="none" stroke="#9aa9b7" stroke-dasharray="5 5"/>
+<circle cx="350" cy="315" r="210" fill="none" stroke="#9aa9b7" stroke-dasharray="5 5"/>
+<circle cx="350" cy="315" r="6" fill="#334155"/>
+<text x="330" y="339" font-family="sans-serif" font-size="18" fill="#172b42">O</text>
+<circle cx="470" cy="225" r="6" fill="#15803d"/>
+<text x="482" y="215" font-family="sans-serif" font-size="18" fill="#172b42">P (40 ; 30)</text>
+<line x1="350" y1="315" x2="470.0" y2="315.0" stroke="#2563eb" stroke-width="8" />
+<line x1="470.0" y1="315.0" x2="470" y2="225" stroke="#2563eb" stroke-width="8" />
+<circle cx="470.0" cy="315.0" r="6" fill="#2563eb"/>
+<text x="478.0" y="339.0" font-family="sans-serif" font-size="18" fill="#2563eb">A</text>
+<line x1="350" y1="315" x2="383.6" y2="199.8" stroke="#c56a08" stroke-width="8" />
+<line x1="383.6" y1="199.8" x2="470" y2="225" stroke="#c56a08" stroke-width="8" />
+<circle cx="383.6" cy="199.8" r="6" fill="#c56a08"/>
+<text x="391.6" y="223.8" font-family="sans-serif" font-size="18" fill="#c56a08">A′</text>
+<text x="28" y="550" font-family="sans-serif" font-size="18" fill="#2563eb">Bleu : (0°, 90°)</text>
+<text x="28" y="578" font-family="sans-serif" font-size="18" fill="#c56a08">Orange : (73,74°, −90°)</text>
+</svg>
