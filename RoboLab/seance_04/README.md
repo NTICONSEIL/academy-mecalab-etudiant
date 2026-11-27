@@ -1,5 +1,5 @@
 # RoboLab S4 — Dynamique et puissance
-Prépa CESI, 4 h. Objectif : déterminer une durée de déplacement admissible pour R2.
+Classe préparatoire, 4 h. Objectif : déterminer une durée de déplacement admissible pour R2.
 
 - [Cours](cours.md)
 - [TP](tp.md)
