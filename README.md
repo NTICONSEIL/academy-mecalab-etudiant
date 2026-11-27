@@ -93,7 +93,7 @@ Cloner le dépôt en remplaçant `URL_DU_DEPOT` par l’adresse communiquée par
 
 ```bash
 git clone URL_DU_DEPOT
-cd MecaLab-CESI-Python
+cd academy-mecalab-etudiant
 python --version
 python -m pip install -r requirements.txt
 code .
