@@ -1,6 +1,6 @@
 # RoboLab — Séance 2 : cinématique inverse
 
-Durée : 4 h. Prépa CESI, première année. Robot R2 : 40 cm et 30 cm.
+Durée : 4 h. Classe préparatoire, première année. Robot R2 : 40 cm et 30 cm.
 
 - [Cours](cours.md)
 - [TP étudiant](tp.md)
