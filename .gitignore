@@ -1,0 +1,5 @@
+mon_travail/
+__pycache__/
+*.pyc
+.venv/
+.vscode/
