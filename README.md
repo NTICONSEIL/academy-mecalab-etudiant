@@ -2,7 +2,7 @@
 
 **Cycle préparatoire · Première année**
 
-MecaLab est un projet pédagogique consacré à l’application de la programmation Python à la mécanique, à la robotique et à la mécatronique. Il prolonge les acquis du projet BatiCalc en plaçant les étudiants face à des problèmes de modélisation, de simulation et de commande de systèmes physiques.
+MecaLab est un projet pédagogique consacré à l’application de la programmation Python à la mécanique, à la robotique et à la mécatronique. Il place les étudiants face à des problèmes de modélisation, de simulation et de commande de systèmes physiques.
 
 Le projet s’articule autour de deux parcours complémentaires : **RoboLab**, consacré aux bras robotiques, et **DroneLab**, consacré à la dynamique et au pilotage simulé de drones quadricoptères.
 
