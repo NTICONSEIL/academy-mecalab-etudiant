@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="405pt" height="197.277938pt" viewBox="0 0 405 197.277938" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-27T15:40:08.416884</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 197.277938 
+L 405 197.277938 
+L 405 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <g id="patch_2">
+     <path d="M 26.171094 123.923766 
+L 105.408906 123.923766 
+Q 110.908906 123.923766 110.908906 118.423766 
+L 110.908906 95.460234 
+Q 110.908906 89.960234 105.408906 89.960234 
+L 26.171094 89.960234 
+Q 20.671094 89.960234 20.671094 95.460234 
+L 20.671094 118.423766 
+Q 20.671094 123.923766 26.171094 123.923766 
+z
+" style="fill: #eff6ff; stroke: #64748b; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(26.171094 103.770391)">Travail moteur</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(36.921875 116.087984)">W = ∫ P dt</text>
+   </g>
+   <g id="text_2">
+    <g id="patch_3">
+     <path d="M 264.896281 82.803703 
+L 358.839719 82.803703 
+Q 364.339719 82.803703 364.339719 77.303703 
+L 364.339719 53.372172 
+Q 364.339719 47.872172 358.839719 47.872172 
+L 264.896281 47.872172 
+Q 259.396281 47.872172 259.396281 53.372172 
+L 259.396281 77.303703 
+Q 259.396281 82.803703 264.896281 82.803703 
+z
+" style="fill: #eff6ff; stroke: #64748b; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(264.896281 62.170453)">Variation énergie</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(274.390656 75.016047)">cinétique ΔEc</text>
+   </g>
+   <g id="text_3">
+    <g id="patch_4">
+     <path d="M 264.896281 165.699703 
+L 358.839719 165.699703 
+Q 364.339719 165.699703 364.339719 160.199703 
+L 364.339719 136.796172 
+Q 364.339719 131.296172 358.839719 131.296172 
+L 264.896281 131.296172 
+Q 259.396281 131.296172 259.396281 136.796172 
+L 259.396281 160.199703 
+Q 259.396281 165.699703 264.896281 165.699703 
+z
+" style="fill: #eff6ff; stroke: #64748b; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(264.896281 145.594453)">Variation énergie</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(269.99925 157.912047)">potentielle ΔEp</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 126.264578 107.586659 
+Q 182.97108 127.708321 237.780983 147.156996 
+" style="fill: none; stroke: #000000; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 234.370003 143.612252 
+L 237.780983 147.156996 
+L 232.8986 147.758934 
+" style="fill: none; stroke: #000000; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 126.264578 106.249216 
+Q 182.97108 86.127554 237.780983 66.678879 
+" style="fill: none; stroke: #000000; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 232.8986 66.076941 
+L 237.780983 66.678879 
+L 234.370003 70.223623 
+" style="fill: none; stroke: #000000; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 13.2px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="202.5" y="17.757938" transform="rotate(-0 202.5 17.757938)">Bilan mécanique idéal : W = ΔEc + ΔEp</text>
+   </g>
+  </g>
+ </g>
+</svg>
