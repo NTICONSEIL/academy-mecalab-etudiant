@@ -1,6 +1,6 @@
 # RoboLab — Python appliqué à la robotique
 
-**MecaLab · CESI · Cycle préparatoire · Première année**
+**MecaLab · Cycle préparatoire · Première année**
 
 RoboLab est un parcours pédagogique consacré à la modélisation, à la simulation et à la commande d'un bras robotique. Il prolonge les acquis de Python du projet BatiCalc en mobilisant les mathématiques, la mécanique et les sciences de l'ingénieur.
 
