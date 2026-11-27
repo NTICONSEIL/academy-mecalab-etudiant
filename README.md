@@ -65,7 +65,7 @@ La réussite d’un exercice ne se limite pas à obtenir un programme qui s’ex
 ## Organisation du dépôt
 
 ```text
-MecaLab-CESI-Python/
+academy-mecalab-etudiant/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
